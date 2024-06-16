@@ -1,4 +1,4 @@
--- Description: This script is used to create the database and tables for the project
+-- Description: This script is used to create the database and tables for the mini-project
 
 create datababse if not exists `sales`;
 
